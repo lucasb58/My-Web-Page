@@ -1,2 +1,2 @@
 # My-Web-Page
-https://github.com/lucasb58/My-Web-Page
+https://lucasb58.github.io/My-Web-Page/
